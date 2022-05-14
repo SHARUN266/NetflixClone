@@ -1,7 +1,7 @@
 # Netflix Clone
 Netflix Clone.
 This is a group project made for educational purpose by Sharun.
-Site link:-https://sprightly-bombolone-3e7ed9.netlify.app/
+
 
 The project is a clone of [Netflix](https://www.netflix.com/) which is an online video streaming Over The Top (OTT) platform.
 ## Site Link
